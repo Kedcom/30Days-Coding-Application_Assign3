@@ -1,3 +1,2 @@
 # 30Days-Coding-Application
-##
-## Code is in main branch
+### Code is in the Master branch
