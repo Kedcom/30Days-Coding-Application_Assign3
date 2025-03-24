@@ -1,0 +1,280 @@
+<resources>
+<!--
+Used &#8226; for bullet points.
+Used &#10; for line breaks to ensure spacing.
+-->
+    <string name="app_name">30Days Coding</string>
+
+    <string name="day_1a">HTML - Structure of Web Pages</string>
+    <string name="day1_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn the basics of HTML, including elements, attributes, and document structure.\n
+        &#8226; 11:00 AM - 12:30 PM: Practice by creating a simple webpage with headings, paragraphs, and images.\n
+        &#8226; 2:00 PM - 3:00 PM: Work on forms and tables to understand data input in HTML.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_2a">CSS - Styling Your Web Pages</string>
+    <string name="day2_description">
+        &#8226; 9:00 AM - 10:30 AM: Understand CSS basics: selectors, properties, and values.\n
+        &#8226; 11:00 AM - 12:30 PM: Learn about the box model and positioning elements.\n
+        &#8226; 2:00 PM - 3:00 PM: Implement responsive design with flexbox and grid.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_3a">JavaScript - Programming for the Web</string>
+    <string name="day3_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn JavaScript basics: variables, data types, and operators.\n
+        &#8226; 11:00 AM - 12:30 PM: Practice control structures: loops and conditionals.\n
+        &#8226; 2:00 PM - 3:00 PM: Understand functions and event handling in JavaScript.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_4a">Python - Basics of Programming</string>
+    <string name="day4_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn about variables, data types, and basic operators.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with lists, tuples, and dictionaries.\n
+        &#8226; 2:00 PM - 3:00 PM: Understand control flow: loops and conditionals.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_5a">SQL - Managing Databases</string>
+    <string name="day5_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn SQL syntax and basic queries.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with CRUD operations.\n
+        &#8226; 2:00 PM - 3:00 PM: Learn about relationships and joins in SQL.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_6a">Java - Object-Oriented Programming</string>
+    <string name="day6_description">
+        &#8226; 9:00 AM - 10:30 AM: Introduction to Java syntax and structure.\n
+        &#8226; 11:00 AM - 12:30 PM: Learn about classes, objects, and methods.\n
+        &#8226; 2:00 PM - 3:00 PM: Explore inheritance and polymorphism.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_7a">C# - Basics and OOP</string>
+    <string name="day7_description">
+        &#8226; 9:00 AM - 10:30 AM: Understand C# syntax and structure.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with variables, loops, and conditionals.\n
+        &#8226; 2:00 PM - 3:00 PM: Learn about classes, objects, and methods.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_8a">React - JavaScript Framework</string>
+    <string name="day8_description">
+        &#8226; 9:00 AM - 10:30 AM: Introduction to React concepts.\n
+        &#8226; 11:00 AM - 12:30 PM: Create components and props.\n
+        &#8226; 2:00 PM - 3:00 PM: Implement state and lifecycle methods.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_9a">Node.js - Backend Development</string>
+    <string name="day9_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn about Node.js and package management.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with Express.js for creating a simple server.\n
+        &#8226; 2:00 PM - 3:00 PM: Implement routing and middleware.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_10a">Advanced Java Concepts</string>
+    <string name="day10_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn about multithreading, exception handling, and file handling.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with threading and exception handling in Java.\n
+        &#8226; 2:00 PM - 3:00 PM: Implement a multithreading project.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning. Try platforms like [HackerRank](https://www.hackerrank.com/) and [LeetCode](https://leetcode.com/).\n
+    </string>
+
+    <!-- Remaining days -->
+
+    <string name="day_11a">PHP - Server-Side Programming</string>
+    <string name="day11_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn PHP basics: syntax, variables, and data types.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with forms, sessions, and cookies.\n
+        &#8226; 2:00 PM - 3:00 PM: Implement a simple login system with PHP.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning. Try platforms like W3Schools and PHP Quiz.\n
+    </string>
+
+    <string name="day_12a">Laravel - PHP Framework</string>
+    <string name="day12_description">
+        &#8226; 9:00 AM - 10:30 AM: Introduction to Laravel and MVC architecture.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with routes, controllers, and views.\n
+        &#8226; 2:00 PM - 3:00 PM: Create a simple CRUD application in Laravel.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz. Try Laravel documentation and Codecademy.\n
+    </string>
+
+    <string name="day_13a">C++ - Fundamentals and OOP</string>
+    <string name="day13_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn C++ syntax, variables, and control structures.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with functions, pointers, and arrays.\n
+        &#8226; 2:00 PM - 3:00 PM: Implement a mini project using OOP concepts.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_14a">Advanced C++ Concepts</string>
+    <string name="day14_description">
+        &#8226; 9:00 AM - 10:30 AM: Explore advanced C++ topics like STL and file handling.\n
+        &#8226; 11:00 AM - 12:30 PM: Implement a project using advanced C++ concepts.\n
+        &#8226; 2:00 PM - 3:00 PM: Debugging techniques in C++.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_15a">Data Structures - Arrays and Lists</string>
+    <string name="day15_description">
+        &#8226; 9:00 AM - 10:30 AM: Introduction to arrays and list data structures.\n
+        &#8226; 11:00 AM - 12:30 PM: Implement operations on arrays and lists.\n
+        &#8226; 2:00 PM - 3:00 PM: Learn about array manipulation algorithms (e.g., sorting, searching).\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_16a">Algorithms - Sorting and Searching</string>
+    <string name="day16_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn about common sorting algorithms (Bubble Sort, Merge Sort, etc.).\n
+        &#8226; 11:00 AM - 12:30 PM: Work on searching algorithms (Binary Search, Linear Search).\n
+        &#8226; 2:00 PM - 3:00 PM: Implement and compare different sorting and searching algorithms.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_17a">Version Control - Git and GitHub</string>
+    <string name="day17_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn Git basics: initializing repositories, commits, and branches.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with GitHub: creating repositories, pushing and pulling changes.\n
+        &#8226; 2:00 PM - 3:00 PM: Practice collaborative workflows with Git (fork, pull requests, merges).\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_18a">Web Development - HTTP and APIs</string>
+    <string name="day18_description">
+        &#8226; 9:00 AM - 10:30 AM: Understand HTTP methods (GET, POST, PUT, DELETE) and status codes.\n
+        &#8226; 11:00 AM - 12:30 PM: Learn how APIs work and interact with a simple API.\n
+        &#8226; 2:00 PM - 3:00 PM: Build a simple API using Express.js (or Flask for Python).\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_19a">Frontend Frameworks - React</string>
+    <string name="day19_description">
+        &#8226; 9:00 AM - 10:30 AM: Dive deeper into React: useState, useEffect, and component lifecycle.\n
+        &#8226; 11:00 AM - 12:30 PM: Learn how to manage state in React applications.\n
+        &#8226; 2:00 PM - 3:00 PM: Build a simple React app (e.g., to-do list, weather app).\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_20a">Backend Development - Node.js and Express</string>
+    <string name="day20_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn about Node.js environment and npm (node package manager).\n
+        &#8226; 11:00 AM - 12:30 PM: Work with Express.js to create RESTful APIs.\n
+        &#8226; 2:00 PM - 3:00 PM: Implement routing, middleware, and error handling.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_21a">Database Design - SQL and NoSQL</string>
+    <string name="day21_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn the difference between SQL and NoSQL databases.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with SQL databases (e.g., MySQL, PostgreSQL).\n
+        &#8226; 2:00 PM - 3:00 PM: Learn about NoSQL databases (e.g., MongoDB).\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_22a">Security - Authentication and Authorization</string>
+    <string name="day22_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn the difference between authentication and authorization.\n
+        &#8226; 11:00 AM - 12:30 PM: Implement authentication (JWT, OAuth).\n
+        &#8226; 2:00 PM - 3:00 PM: Implement authorization in an API using roles.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_23a">Testing - Unit Testing and TDD</string>
+    <string name="day23_description">
+        &#8226; 9:00 AM - 10:30 AM: Introduction to unit testing and Test-Driven Development (TDD).\n
+        &#8226; 11:00 AM - 12:30 PM: Write unit tests for functions in JavaScript or Python.\n
+        &#8226; 2:00 PM - 3:00 PM: Learn about testing frameworks (e.g., Jest, Mocha, PyTest).\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_24a">Performance Optimization - Caching and Load Balancing</string>
+    <string name="day24_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn about caching techniques and when to use them.\n
+        &#8226; 11:00 AM - 12:30 PM: Work with Redis for caching in Node.js.\n
+        &#8226; 2:00 PM - 3:00 PM: Understand the concepts of load balancing and horizontal scaling.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_25a">Cloud Computing - AWS or Azure</string>
+    <string name="day25_description">
+        &#8226; 9:00 AM - 10:30 AM: Introduction to cloud computing and major cloud providers (AWS, Azure).\n
+        &#8226; 11:00 AM - 12:30 PM: Deploy a simple app to AWS EC2 or Azure App Service.\n
+        &#8226; 2:00 PM - 3:00 PM: Work with cloud storage and databases in the cloud.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_26a">DevOps - CI/CD and Automation</string>
+    <string name="day26_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn about Continuous Integration (CI) and Continuous Deployment (CD).\n
+        &#8226; 11:00 AM - 12:30 PM: Set up a simple CI/CD pipeline using GitHub Actions or Jenkins.\n
+        &#8226; 2:00 PM - 3:00 PM: Automate deployments with Docker and Kubernetes.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_27a">Mobile App Development - React Native or Flutter</string>
+    <string name="day27_description">
+        &#8226; 9:00 AM - 10:30 AM: Introduction to React Native or Flutter for mobile app development.\n
+        &#8226; 11:00 AM - 12:30 PM: Build a simple mobile app (e.g., to-do list, weather app).\n
+        &#8226; 2:00 PM - 3:00 PM: Learn about mobile-specific design patterns and UI components.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_28a">Agile Development and Scrum</string>
+    <string name="day28_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn the fundamentals of Agile development.\n
+        &#8226; 11:00 AM - 12:30 PM: Understand Scrum methodology and roles.\n
+        &#8226; 2:00 PM - 3:00 PM: Practice creating user stories and managing a Scrum board.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_29a">Soft Skills - Communication and Teamwork</string>
+    <string name="day29_description">
+        &#8226; 9:00 AM - 10:30 AM: Learn the importance of communication in development teams.\n
+        &#8226; 11:00 AM - 12:30 PM: Practice effective communication skills (listening, clarity, conciseness).\n
+        &#8226; 2:00 PM - 3:00 PM: Work on conflict resolution and teamwork in collaborative settings.\n
+        &#8226; 3:00 PM - 3:30 PM: Quick review of the concepts learned.\n
+        &#8226; 4:00 PM - 4:30 PM: Take a short quiz to reinforce learning.\n
+    </string>
+
+    <string name="day_30a">Final Project - Full Stack Application</string>
+    <string name="day30_description">
+        &#8226; 9:00 AM - 10:30 AM: Plan and structure your final full stack application project.\n
+        &#8226; 11:00 AM - 12:30 PM: Work on implementing the frontend and backend of the project.\n
+        &#8226; 2:00 PM - 3:00 PM: Complete testing, documentation, and deployment.\n
+        &#8226; 3:00 PM - 3:30 PM: Present the final project.\n
+        &#8226; 4:00 PM - 4:30 PM: Celebrate and reflect on the 30-day journey!\n
+    </string>
+
+</resources>
